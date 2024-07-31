@@ -55,9 +55,9 @@ const Header = () => {
         className="w-7 h-7 right-8 top-6 cursor-pointer min-[529px]:hidden text-white absolute "
       >
         {open ? (
-          <BiX className="text-[30px]" />
+          <BiX className="text-[31px]" />
         ) : (
-          <BiMenuAltRight className="text-[30px]" />
+          <BiMenuAltRight className="text-[31px]" />
         )}
       </div>
       <OutsideClickHandler onOutsideClick={() => setOpen(false)}>
