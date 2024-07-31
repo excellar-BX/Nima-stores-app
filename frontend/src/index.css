@@ -1,0 +1,42 @@
+/* <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet"> */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Poppins:wght@200&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  margin: 0;
+  padding: 0;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: 'Poppins',;
+  overflow: scroll;
+}
+::-webkit-search-cancel-button{
+}
+.bgimg{
+  background-image: url(./assets/subscribe.png);
+  background-repeat: no-repeat;
+}
+.cart-item{
+  box-shadow: 0px 0px 10px grey; 
+  padding: 20px;
+}
+.adform{
+  box-shadow: 0px 0px 10px grey;
+}
+@media (max-width : 570px) {
+  .subscribe{
+    flex-direction: column;
+    background: none;
+  }
+  .subscribe :nth-child(1){
+    background-color: #eee;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .subscribe :nth-child(2){
+    width: 60%;
+    height: 50px;
+    display: block;
+    margin: auto;
+  }
+}

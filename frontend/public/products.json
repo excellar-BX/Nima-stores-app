@@ -1,0 +1,67 @@
+[
+   {
+      "id": 1,
+      "photo": "./me.png",
+      "title": "Dried fish",
+      "titlemax": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam omnis dolor animi perspiciatis eligendi nulla quia, quo non quam, soluta maxime laborum magni.",
+      "description": "Dried Fish - Bone Free, Boiled and Roasted",
+      "price": 15,
+      "rating": 3
+   },
+   {
+      "id": 2,
+      "photo": "./me.png",
+      "title": "Dried fish",
+      "price": 16,
+      "rating": 3
+   },
+   {
+      "id": 3,
+      "photo": "./me.png",
+      "title": "Dried fish",
+      "price": 10,
+      "rating": 5
+   },
+   {
+      "id": 4,
+      "photo": "./me.png",
+      "title": "Dried fish",
+      "price": 12,
+      "rating": 3
+   },
+   {
+      "id": 5,
+      "photo": "./me.png",
+      "title": "Dried fish",
+      "price": 12,
+      "rating": 4
+   },
+   {
+      "id": 6,
+      "photo": "./me.png",
+      "title": "Dried fish",
+      "price": 16,
+      "rating": 1
+   },
+   {
+      "id": 7,
+      "photo": "./me.png",
+      "title": "Dried fish",
+      "price": 15,
+      "rating": 3
+   },
+   {
+      "id": 8,
+      "photo": "./me.png",
+      "title": "Dried fish",
+      "price": 9,
+      "rating": 2
+   },
+   {
+      "id": 9,
+      "photo": "./me.png",
+      "title": "Dried fish",
+      "price": 13,
+      "rating": 3
+   }
+]

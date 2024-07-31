@@ -1,0 +1,62 @@
+a{
+    color: #000000;
+    text-decoration: none;
+}
+.form-input {
+    background: rgb(238, 238, 238);
+    border-radius: 5px;
+    height: 50px;
+    padding-left: 10px;
+    outline: none;
+    margin-bottom: 20px;
+    border: 0px;
+    font-size: 13px;
+}
+
+.submit-btn {
+    background: linear-gradient(270deg, #ffdf80, #ff8000);
+    font-size: 15px;
+
+}
+
+/*.submit-btn-active{
+    animation: fadeVisibility 0.5s;
+    scale: 1.0;
+}*/
+.i-search {
+    height: 50px;
+    font-size: 15px;
+    outline: none;
+    border: none;
+    background: none;
+}
+
+.i-email {
+    height: 50px;
+    padding-left: 20px;
+    font-size: 15px;
+    outline: none;
+    border: none;
+    background: none;
+}
+
+.sm-btn {
+    outline: none;
+    padding: 15px 20px;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 25px;
+}
+
+
+
+/*@keyframes fadeVisibility{
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+        transform: opacity linear;
+    }
+}*/
